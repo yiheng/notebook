@@ -13,7 +13,7 @@ Please note we will provide sandbox environments on our servers during the tutor
 
 ### For mac users
 * Step 1, install some pre-requirements by following this [page](https://github.com/intel-analytics/BigDL-Tutorials/blob/master/SetupMac.md)
-* Step 2, download BigDL from [this](https://repo1.maven.org/maven2/com/intel/analytics/bigdl/dist-spark-2.1.0-scala-2.11.8-mac/0.1.1/dist-spark-2.1.0-scala-2.11.8-mac-0.1.1-dist.zip)
+* Step 2, download BigDL from [this](https://drive.google.com/file/d/0B7WbKES2D6AxTDJaaUdlRVFRMFU/view?usp=sharing)
 * Step 3, start a local jupyter server by following [this](https://github.com/intel-analytics/BigDL-Tutorials#start-jupyter-server)
 
 ### For linux users
