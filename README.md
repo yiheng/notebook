@@ -6,6 +6,11 @@ Please note we will provide sandbox environments on our servers during the tutor
 
 ## Setup Local Environment
 
+### Docker
+* Step 1, sudo docker run -it --name=bigdltest --net=host intelanalytics/bigdl:0.1.1-spark2.1.0-u14.04-v1 base
+* Step 2, ./start-notebook
+* Step 3, http://[host-ip]:8888
+
 ### For mac users
 * Step 1, install some pre-requirements by following this [page](https://github.com/intel-analytics/BigDL-Tutorials/blob/master/SetupMac.md)
 * Step 2, download BigDL from [this](https://repo1.maven.org/maven2/com/intel/analytics/bigdl/dist-spark-2.1.0-scala-2.11.8-mac/0.1.1/dist-spark-2.1.0-scala-2.11.8-mac-0.1.1-dist.zip)
