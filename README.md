@@ -7,7 +7,7 @@ Please note we will provide sandbox environments on our servers during the tutor
 ## Setup Local Environment
 
 ### Docker
-* Step 1, sudo docker run -it --name=bigdltest --net=host intelanalytics/bigdl:0.1.1-spark2.1.0-u14.04-v1 base
+* Step 1, sudo docker run -it --name=bigdltest --net=host intelanalytics/bigdl:0.1.1-spark2.1.0-u14.04-v1 bash
 * Step 2, ./start-notebook
 * Step 3, http://[host-ip]:8888
 
