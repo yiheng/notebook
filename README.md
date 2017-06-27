@@ -28,6 +28,9 @@ BigDL hasn't support windows yet. So please use the sandbox environment on our s
 
 * Step 1, please choose one of these servers
   * A: http://34.211.244.222:8888
+  * B: http://35.166.211.118:8888
+  * C: http://52.43.142.253:8888
+  * D: http://34.211.170.183:8888
 
 * Step 2, please open the URL, then "New" -> Folder
 ![](https://github.com/yiheng/OReillyAIConf/raw/master/step2.PNG)
