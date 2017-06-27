@@ -7,6 +7,9 @@ Please note we will provide sandbox environments on our servers during the tutor
 ## Notebook
 https://github.com/intel-analytics/BigDL-Tutorials
 
+## Slides
+https://github.com/yiheng/OReillyAIConf/blob/master/BigDL%20-%20Tutorial%20-%20AIConf.pdf
+
 ## Setup Local Environment
 
 ### Docker
