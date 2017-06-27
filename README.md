@@ -4,6 +4,9 @@ In this tutorial, we will give a comprehensive introduction of BigDL and run sev
 
 Please note we will provide sandbox environments on our servers during the tutorial. So no worry if you havn't setup your own local environment. As the sandbox servers are shared, we still prefer that you have your own environment.
 
+## Notebook
+https://github.com/intel-analytics/BigDL-Tutorials
+
 ## Setup Local Environment
 
 ### Docker
