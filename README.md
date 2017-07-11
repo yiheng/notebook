@@ -4,11 +4,10 @@ In this tutorial, we will give a comprehensive introduction of BigDL and run sev
 
 Please note we will provide sandbox environments on our servers during the tutorial. So no worry if you havn't setup your own local environment. As the sandbox servers are shared, we still prefer that you have your own environment.
 
-## Notebook
-https://github.com/intel-analytics/BigDL-Tutorials
-
 ## Slides
-https://github.com/yiheng/OReillyAIConf/raw/master/BigDL%20-%20Tutorial%20-%20AIConf.pdf
+https://github.com/yiheng/OReillyAIConf/blob/master/strata-2017-training.pdf
+
+https://github.com/yiheng/OReillyAIConf/blob/master/BigDL-Tutorial-Strata%202017.pdf
 
 ## Setup Local Environment
 
