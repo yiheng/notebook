@@ -7,8 +7,6 @@ Please note we will provide sandbox environments on our servers during the tutor
 ## Slides
 https://github.com/yiheng/OReillyAIConf/blob/master/strata-2017-training.pdf
 
-https://github.com/yiheng/OReillyAIConf/blob/master/BigDL-Tutorial-Strata%202017.pdf
-
 ## Setup Local Environment
 
 ### Docker
