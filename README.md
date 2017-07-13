@@ -5,27 +5,7 @@ In this tutorial, we will give a comprehensive introduction of BigDL and run sev
 Please note we will provide sandbox environments on our servers during the tutorial. So no worry if you havn't setup your own local environment. As the sandbox servers are shared, we still prefer that you have your own environment.
 
 ## Slides
-https://github.com/yiheng/OReillyAIConf/blob/master/strata-2017-training.pdf
-
-## Setup Local Environment
-
-### Docker
-* Step 1, sudo docker run -it --name=bigdltest --net=host intelanalytics/bigdl:0.1.1-spark2.1.0-u14.04-v1 bash
-* Step 2, ./start-notebook
-* Step 3, http://[host-ip]:8888
-
-### For mac users
-* Step 1, install some pre-requirements by following this [page](https://github.com/intel-analytics/BigDL-Tutorials/blob/master/SetupMac.md)
-* Step 2, download BigDL from [this](https://drive.google.com/file/d/0B7WbKES2D6AxTDJaaUdlRVFRMFU/view?usp=sharing)
-* Step 3, start a local jupyter server by following [this](https://github.com/intel-analytics/BigDL-Tutorials#start-jupyter-server)
-
-### For linux users
-* Step 1, install some pre-requirements by following this [page](https://github.com/intel-analytics/BigDL-Tutorials/blob/master/SetupLinux.md)
-* Step 2, download BigDL from [this](https://repo1.maven.org/maven2/com/intel/analytics/bigdl/dist-spark-2.1.0-scala-2.11.8-linux64/0.1.1/dist-spark-2.1.0-scala-2.11.8-linux64-0.1.1-dist.zip)
-* Step 3, start a local jupyter server by following [this](https://github.com/intel-analytics/BigDL-Tutorials#start-jupyter-server)
-
-### For windows users
-BigDL hasn't support windows yet. So please use the sandbox environment on our servers
+https://github.com/yiheng/OReillyAIConf/blob/master/BigDL-Tutorial-Strata-2017.pdf
 
 ## Sandbox environment
 
