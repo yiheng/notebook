@@ -1,12 +1,3 @@
-# OReillyAIConf
-
-In this tutorial, we will give a comprehensive introduction of BigDL and run several hand-on exercises. To be able to run these BigDL hand-on exercises, the attendees need to setup an environment on your laptops.
-
-Please note we will provide sandbox environments on our servers during the tutorial. So no worry if you havn't setup your own local environment. As the sandbox servers are shared, we still prefer that you have your own environment.
-
-## Slides
-https://github.com/yiheng/OReillyAIConf/blob/master/BigDL-Tutorial-Strata-2017.pdf
-
 ## Sandbox environment
 
 * Step 1, please choose one of these servers
